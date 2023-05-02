@@ -1,0 +1,13 @@
+{
+  "name": "characters",
+  "date": 1659918996,
+  "data": {
+    "character": "bob",
+    "power": 100,
+    "health": 100,
+    "abilities": "fire,shock",
+    "race": "orc",
+    "enabled": false,
+    "killable": false
+  }
+}

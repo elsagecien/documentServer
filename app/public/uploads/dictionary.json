@@ -1,0 +1,15 @@
+[
+  {
+    "name": "characters",
+    "version": "001",
+    "length": 100000024,
+    "path": "/var/www/html/public/uploads/characters_001.json"
+  },
+  {
+    "name": "characters",
+    "version": "002",
+    "length": 1000024,
+    "path": "/var/www/html/public/uploads/characters_001.json"
+  }
+]
+
